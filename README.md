@@ -23,6 +23,18 @@ This repository contains my academic work and practical implementations in VLSI,
 - Bash Scripting
 - Git & Linux Commands
 
+# Data Structures
+
+This folder contains implementation of core Data Structures concepts:
+
+- Arrays
+- Linked List
+- Stack
+- Queue
+- Trees
+- Searching Algorithms
+- Sorting Algorithms
+
 ---
 
 Tools Used:
